@@ -45,6 +45,6 @@ npm run lint
 ```
 
 ## TODO
-Complete e2e validations, and check all components to be rendered
-Generate stand alone components validation as a Integration Test in addition to the unit testing
-Create all the unit testing
+- Complete e2e validations, and check all components to be rendered
+- Generate stand alone components validation as a Integration Test in addition to the unit testing
+- Create all the unit testing
